@@ -1,4 +1,9 @@
-# Coffee-Shop-Sales-Analysis
+# Coffee Shop Sales Analysis 
+
+
+## Dashboard Preview  
+<img width="1461" height="602" alt="Screenshot 2026-05-12 225944" src="https://github.com/user-attachments/assets/e3362877-0ed8-485f-970a-76f153d08af9" /> 
+
 
 ## Project Overview  
   -  This project presents an interactive Sales Dashboard built using Microsoft Excel to analyze Coffee shop data. The primary goal is to create a dynamic sales            dashboard that provides valuable insights into sales performance, helping businesses understand trends and make informed decisions.
@@ -14,7 +19,7 @@ The Dataset used in this project includes the following headers:
   -  Total Amount
 ## Dashboard Highlights  
 #### 1) Sales by Store Location - Pie Chart:
-  -  Description: This chart displays the distribution of sales across different store location in percentage. The pie chart helps in to know about what proportion of sales is hold by each store location.
+  -  Description: This chart displays the distribution of sales across different store location in percentage. The pie chart helps in to know about what proportion of sales is hold by each store location.  
 #### 2) Sales by Product types - Area Chart:    
   -  Description: This charts show the sales of top 7 product types, providing a visual representation of a steady increase in sales across of different product types, with espresso-based products performing better than regular brewed beverages.
 #### 3) Quantity of Categories- Column Chart:  
